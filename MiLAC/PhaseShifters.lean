@@ -1,7 +1,7 @@
 /-
 Copyright (c) 2026 Matteo Nerini. All rights reserved.
 Released under Apache 2.0 license as described in the file LICENSE.
-Authors: Matteo Nerini, Claude AI
+Authors: Matteo Nerini
 -/
 import Mathlib.Analysis.Complex.Exponential
 import Mathlib.Data.Matrix.Block
