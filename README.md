@@ -2,7 +2,7 @@
 
 This repository contains the code associated with the paper
 
-> M. Nerini, X. Liu, B. Clerckx, "[Toward a Lean formalization of analog computing with microwaves](https://arxiv.org)," arXiv:, 2026 (to appear).
+> M. Nerini, X. Liu, B. Clerckx, "[Toward a Lean formalization of analog computing with microwaves](https://arxiv.org/abs/2610.04774)," arXiv:2610.04774, 2026.
 
 ## Overview
 
